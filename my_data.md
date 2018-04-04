@@ -81,3 +81,7 @@ This dataset contains the spirits purchase information of Iowa Class “E” liq
 Used cars for sale in Germany and Czech Republic since 2015.
 
 1. K. Wyrzykowski. [Asia and Oceania](https://www.kaggle.com/openaddresses/openaddresses-asia-and-oceania). OpenAddresses's goal is to connect the digital and physical worlds by sharing geographic coordinates, street names, house numbers and postal codes.
+
+1. A. Zdybel [World Cities Database](https://www.kaggle.com/max-mind/world-cities-database/data). Simply a list of cities in the world
+
+
